@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="light_yellow">#FFE082</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="sky_blue">#81D4FA</color>
+
+    <color name="colorPrimary">#05c3f9</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPlomo">#b4b2b2</color>
+    <color name="colorNegroClaro">#5b5858</color>
+    <color name="colorNegro">#000000</color>
+    <color name="colorBlanco">#ffffff</color>
+    <color name="colorRojo">#ff0d0d</color>
+    <color name="colorAnaranjado">#ecff6f00</color>
+    <color name="colorAmarillo">#ecffea00</color>
+    <color name="colorVerde">#ec419e3e</color>
+    <color name="colorVerdeLimon">#ecccff00</color>
+    <color name="colorVerdeLimonOscuro">#ec84ff00</color>
+    <color name="colorVerdeLimonOscuro2">#ec59ff00</color>
+    <color name="colorTurquesa">#ec00ff80</color>
+    <color name="colorCelesteClaro">#98eeff</color>
+    <color name="colorCeleste">#ec00ffcc</color>
+    <color name="colorCelesteAzul">#ec00e6ff</color>
+    <color name="colorAzulClaro">#ec00c8ff</color>
+    <color name="colorAzul">#ec003cff</color>
+    <color name="colorAzulOscuro">#ec3e399e</color>
+    <color name="colorVioletaClaro">#ecba88e9</color>
+    <color name="colorVioleta">#ec8c00ff</color>
+    <color name="colorVioletaOscuro">#ec7943a4</color>
+    <color name="colorMoradoClaro">#ecc162f1</color>
+    <color name="colorMorado">#ec8d00d4</color>
+    <color name="colorMoradoOscuro">#ec7c399c</color>
+    <color name="colorRosadoClaro">#ecf467d1</color>
+    <color name="colorRosado">#ecd4009f</color>
+    <color name="colorRosadoOscuro">#ec940772</color>
+    <color name="colorChicleClaro">#eced5097</color>
+    <color name="colorChicle">#ecd4005f</color>
+    <color name="colorChicleOscuro">#ec9f0449</color>
+    <color name="colorSalvajeClaro">#ecf14458</color>
+    <color name="colorSalvaje">#ecd40019</color>
+    <color name="colorSalvajeOscuro">#ec9b0315</color>
+</resources>
